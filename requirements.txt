@@ -1,0 +1,9 @@
+groq==0.5.0
+langchain==0.1.17
+langchain_core==0.1.50
+openai==1.25.1
+plotly==5.19.0
+python_dateutil==2.9.0.post0
+streamlit==1.31.1
+yfinance==0.2.37
+kaleido
