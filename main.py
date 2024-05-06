@@ -6,7 +6,7 @@ import shutil
 
 
 SAVED_SESSIONS = [
-    "Generate a stock price analysis report in markdown report to compare the stock prices of AAPL and MSFT for the last 10 days including visual charts and your financial price analysis comments.",
+    "Generate a stock price analysis report in markdown format to compare the stock prices of AAPL and MSFT for the last 10 days including visual charts and your financial price analysis comments.",
     "What is the TSLA stock price for the last 10 days?"
 ]
 
